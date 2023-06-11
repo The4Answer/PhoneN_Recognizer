@@ -4,9 +4,8 @@ This program can recognize phone numbers from pictures or photos, but if there's
 To start the program:
 1) Download whole repo
 2) Install everything from requirements.txt
-3.1) Open Phone_Recognizer.vbs
-or
-3.2) Open project.py and press F5
+3) a) Open Phone_Recognizer.vbs 
+   b) Open project.py and press F5
 
 Some examples:
 1) When programm just started:
